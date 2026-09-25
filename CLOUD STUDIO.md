@@ -21,6 +21,10 @@ Ansible es una herramienta de automatización enfocada principalmente en la admi
 
 No requiere agentes en los equipos administrados y utiliza archivos de configuración basados en YAML, facilitando la automatización de tareas de instalación, configuración y mantenimiento de software.
 
+   **NOTA**
+    	YAML es un lenguaje de serialización de datos para que las personas puedan comprender y como se utiliza en el           diseño de configuración.
+	-**Se utiliza para DATOS, NO para documentos**
+
 ## Características
 
 - Arquitectura sin agentes: no es necesario instalar software adicional en los equipos administrados.
