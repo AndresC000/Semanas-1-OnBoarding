@@ -12,7 +12,7 @@ A continuación se detallan los temas cubiertos durante la semana. Cada enlace d
 *  Cloud Studio - (CLOUD-STUDIO.md) — Entorno de desarrollo y herramientas en la nube.
 *  Git y GitHub - (Git-GitHub.md) — Control de versiones, flujo de trabajo por ramas (Git Flow) y Pull Requests.
 *  Herramientas - (HERRAMIENTAS.md) — Descripción y uso de las herramientas principales de trabajo.
-*  Seguridad en - Cloud(SEGURIDAD EN CLOUD.md) — Fundamentos y buenas prácticas de seguridad en la nube.
+*  Seguridad en Cloud - (SEGURIDAD EN CLOUD.md) — Fundamentos y buenas prácticas de seguridad en la nube.
 *  VS Code e IaC - (Vs-Code.md) — Configuración de entorno de desarrollo e Infraestructura como Código.
 
 
